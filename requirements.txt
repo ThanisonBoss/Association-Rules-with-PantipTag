@@ -3,3 +3,4 @@ mlxtend==0.20.0
 Jinja2==3.1.2
 requests==2.28.1
 bs4==0.0.1
+tqdm==4.64.0
